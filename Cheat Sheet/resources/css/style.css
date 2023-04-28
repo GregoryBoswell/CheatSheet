@@ -1,0 +1,59 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    background-color: cornflowerblue;
+}
+
+h2 {
+    border-bottom: 1px solid black;
+}
+
+/*Styling Tables*/
+
+table {
+    background-color: white;
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 95%;
+    margin-left: 2.5%;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 0.35em;
+    text-align: center;
+
+}
+
+caption {
+    background-color: lightblue;
+    font-weight: bold;
+    margin: -1px 0;
+    border: 1px solid black;
+}
+
+th {
+    padding: 0.5em;
+
+}
+
+td.description {
+    width: 55%;
+
+}
+
+.code {
+    font-family: "Space Mono";
+
+}
+
+
+
